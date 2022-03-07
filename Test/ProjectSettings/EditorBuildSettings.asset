@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Character Custom/Character Custom.unity
+    guid: e6cae7b4e21717d439eecdb486e8b103
+  - enabled: 1
+    path: Assets/teste.unity
+    guid: a24cb7db30faca640a8ef333a828c9a5
+  m_configObjects: {}
